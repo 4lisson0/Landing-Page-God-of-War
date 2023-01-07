@@ -14,7 +14,7 @@ body {
 }
 
 main {
-    background-image: url(/assets/background.png);
+    background-image: url(assets/background.png);
     width: 96em;
     height: 791px;
 }
@@ -136,7 +136,7 @@ p {
 }
 
 .third-section {
-    background-image: url(/assets/img-second-section.svg);
+    background-image: url(assets/img-second-section.svg);
     display: flex;
     flex-direction: column;
     gap: 11px;
