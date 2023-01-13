@@ -135,7 +135,14 @@ p {
 
 .img-section-third {
     width: 16em;
-    padding: 10px 51px;
+}
+
+.img-third{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100vw;
+    gap: 31px;
 }
 
 .fourth-section {
@@ -153,7 +160,7 @@ p {
     display: flex;
     flex-direction: column;
     text-align: center;
-    padding: 10px 16px;
+    align-items: center;
 }
 
 .img-machado {
@@ -172,7 +179,7 @@ p {
     display: flex;
     flex-direction: column;
     text-align: center;
-    padding: 10px 16px;
+    align-items: center;
 }
 
 .img-arco {
